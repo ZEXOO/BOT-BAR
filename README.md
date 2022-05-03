@@ -16,7 +16,7 @@ Simple Rpg WhatsApp Bot Mike-bot
 
 ## Deploy to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZEXOO/BOT-BAR)
 
 Heroku Buildpack
 | BuildPack | LINK |
